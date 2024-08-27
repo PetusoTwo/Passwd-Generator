@@ -222,6 +222,7 @@ font: 10pt &quot;SansSerif&quot;;
 background-color: rgb(65, 54, 50);
 border-radius: 2px;
 color: white;
+padding: 8px;
 }
 QPushButton{
 
