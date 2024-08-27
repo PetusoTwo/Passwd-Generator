@@ -19,7 +19,7 @@ El generador de contraseñas permite al usuario:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/PetusoTwo/Password-Generator.git
+   https://github.com/PetusoTwo/Passwd-Generator.git
 
 ## Interfaz de usuario:
 Un cuadro de diálogo aparecerá preguntando si deseas incluir números en la contraseña.
