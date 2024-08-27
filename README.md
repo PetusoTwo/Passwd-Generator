@@ -29,4 +29,7 @@ Ingresa una cantidad en el campo de texto.
 Cuando se te pregunte, selecciona si deseas incluir números y caracteres especiales.
 Presiona el botón "Generar" para obtener la contraseña aleatoria.
 Usa el botón "Copiar" para copiar la contraseña al portapapeles.
+
+## 
 ![image](https://github.com/user-attachments/assets/ba07d102-2a93-416a-8843-b144abe164be)
+## 
